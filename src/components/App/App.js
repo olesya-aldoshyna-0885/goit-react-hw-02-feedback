@@ -48,7 +48,6 @@ export class App extends Component {
           ) : (
             <Notification>There is no feedback</Notification>
           )}
-          ;
         </Section>
       </Container>
     );
